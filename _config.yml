@@ -1,0 +1,28 @@
+name: fightraccoon
+favicon: null
+layout_spectrum: 0.7722831666469574
+typography_spectrum: 0.08346800273284316
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.38180954079143703
+  lightness: 0.7537099313922226
+  saturation: 0.6106468816287816
+  rhythmicContrast: 0.46190451411530375
+purpose: []
